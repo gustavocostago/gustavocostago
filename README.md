@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back-end developer<br>I'm currently working on @gincourbanismo
+Back-end developer<br>
 
 
 ## 🌐 Socials:
